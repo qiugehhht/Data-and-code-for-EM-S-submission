@@ -1,2 +1,2 @@
 # Data-and-code-for-EM-S-submission
-Please follow the "readme.md" to reproduce the findings in the manuscript
+Please decompress "./dataset/Stack_Shanghai.gdb.zip" and sequentially run "prepossesing.R", "stacked_model.R" and "inla_prediction.R" to reproduce the findings in the manuscript
